@@ -45,7 +45,7 @@ Your mission is to create a Django app using DRF to store and retrieve Vehicles 
 
 * Run the tests ( unitTest and end to end test.)
   
-  **Note:** Need to run server before test because end to end test using actual server
+  **Note:** Need to run server before test because end to end test using the server is running
     ```commandline
     python3 manage.py test
     ```
